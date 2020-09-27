@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 
-import { Button } from "starter-lib";
+import { Button } from "beloved";
 
 function App() {
   return (
